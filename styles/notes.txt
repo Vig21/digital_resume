@@ -1,0 +1,6 @@
+By making menu hidden (header & footer)
+the stremalit header menu and the footer where it is mentioned
+Made by streamlit gets hidden.
+
+the hover function is used to highlight the link when we
+move the mouse over it.
